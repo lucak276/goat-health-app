@@ -10,7 +10,7 @@ import {
   REGISTER,
 } from 'redux-persist';
 import createRootReducer from './reducers';
-import createCapacitorStorage from './utils/capacitorStorage';
+//import createCapacitorStorage from './utils/capacitorStorage';
 
 export type RootState = ReturnType<typeof store.getState>;
 

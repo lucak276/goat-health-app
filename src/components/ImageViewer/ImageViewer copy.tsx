@@ -5,10 +5,10 @@ import {
   IonHeader,
   IonIcon,
   IonModal,
+  IonSlide,
+  IonSlides,
   IonToolbar,
 } from '@ionic/react';
-import 'swiper/css';
-import '@ionic/react/css/ionic-swiper.css';
 import { close } from 'ionicons/icons';
 import React, {
   cloneElement,
